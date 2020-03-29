@@ -1,0 +1,2 @@
+# InsuranceConfigServerApplicationSpringBootApp
+config server
